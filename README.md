@@ -43,8 +43,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Steps to Create Project
 
-1_Finish Banner Section
-2_Finish Navbar Section
-3_Finish Hero Section
-4_Finish Logo Ticker Section
-5_Finish Features Section
+1_Finish Banner Section  
+2_Finish Navbar Section  
+3_Finish Hero Section  
+4_Finish Logo Ticker Section  
+5_Finish Features Section  
+6_Finish ProductShowcase Section  
