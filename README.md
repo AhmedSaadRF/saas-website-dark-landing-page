@@ -47,3 +47,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 2_Finish Navbar Section
 3_Finish Hero Section
 4_Finish Logo Ticker Section
+5_Finish Features Section
