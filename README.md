@@ -45,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1_Finish Banner Section
 2_Finish Navbar Section
+3_Finish Hero Section
