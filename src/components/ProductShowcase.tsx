@@ -9,7 +9,9 @@ export const ProductShowcase = () => {
           <div className="max-w-xl mx-auto">
             <p className="text-xl text-center text-white/70 mt-5">Celebrate the joy op accomplishment with an app designed to track your progress, motivate your efforts, and celebrate your successes, one task at a time.</p>
           </div>
-          <Image src={appScreen} alt="The product screenshot" className="mt-14" />
+          <div className="flex justify-center mt-14">
+            <Image src={appScreen} alt="The product screenshot" />
+          </div>
         </div>
     </div>
   );
