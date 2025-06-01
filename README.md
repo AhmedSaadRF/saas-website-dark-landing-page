@@ -44,3 +44,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Steps to Create Project
 
 1_Finish Banner Section
+2_Finish Navbar Section
