@@ -53,3 +53,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 8_Finish CallToAction Section  
 9_Finish Footer Section  
 10_Finish Hero Section Animation  
+11_Finish LogoTicker Section Animation
