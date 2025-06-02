@@ -49,4 +49,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 4_Finish Logo Ticker Section  
 5_Finish Features Section  
 6_Finish ProductShowcase Section  
-7_ Finish FAQs Section  
+7_Finish FAQs Section  
+8_Finish CallToAction Section
