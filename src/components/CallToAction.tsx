@@ -19,7 +19,7 @@ export const CallToAction = () => {
 
   const translateY = useTransform(scrollYProgress, [0, 1], [40, -40])
   return (
-    <div className="bg-black text-white py-[72px] sm:py-36 text-center overflow-x-hidden" ref={containerRef}>
+    <div id='help' className="bg-black text-white py-[72px] sm:py-36 text-center overflow-x-hidden" ref={containerRef}>
       <div className="container max-w-xl relative">
         <motion.div style={{ translateY }}>
           <Image src={HelixImage} alt="" className='absolute top-6 left-[calc(100%+36px)] hidden sm:inline'/>
